@@ -1,3 +1,7 @@
+## Bill Roulette Conundrum:
+In this project , we are going get input of some names and then by randomising the inputs to get \
+output of who is going to pay .
+
 ## Who's Paying
 
 
@@ -22,3 +26,7 @@ Michael is going to buy the meal today!
 [https://stackoverflow.com/questions/1712227/how-do-i-get-the-number-of-elements-in-a-list](https://stackoverflow.com/questions/1712227/how-do-i-get-the-number-of-elements-in-a-list)
 
 2. Remember that Lists start at index 0!
+#Project Name:
+## Bill Roulette Conundrum:
+In this project , we are going get input of some names and then by randomising the inputs to get \
+output of who is going to pay .
