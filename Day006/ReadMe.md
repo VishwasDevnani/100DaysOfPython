@@ -10,7 +10,7 @@ In this project we have used while loops and if-elif-else conditions to solve th
 ![Maze](https://github.com/VishwasDevnani/100DaysOfPython/blob/main/Day006/maze.png)
 ### Maze
 
-![World Info](https://github.com/govindrathore27/100-Days-Of-Python/blob/main/Day-6/world_info.png)
+![World Info](https://github.com/VishwasDevnani/100DaysOfPython/blob/main/Day006/world_info.png)
 ### World Info
 
 Link to the website to get various mazes:
