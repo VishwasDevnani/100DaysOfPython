@@ -5,3 +5,6 @@
 
 
 <img src = "https://pybit.es/images/100days-classic.png">
+
+* [Python's official website](https://www.python.org/ "Python")
+* [Python's Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
