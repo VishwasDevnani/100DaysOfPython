@@ -1,4 +1,4 @@
-[21:05, 12/22/2020] Govind: ## Intermediate Project:
+## Intermediate Project:
 ### [BMI_Calculator 2.0](https://en.wikipedia.org/wiki/Body_mass_index) :
 ![BMI](https://www.cdc.gov/healthyweight/images/assessing/bmi-adult-fb-600x315.jpg)
 
