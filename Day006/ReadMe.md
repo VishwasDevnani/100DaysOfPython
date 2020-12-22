@@ -7,7 +7,7 @@
 ### Maze solver:
 In this project we have used while loops and if-elif-else conditions to solve the maze problem of Reboorg's world.
 
-![Maze](https://github.com/govindrathore27/100-Days-Of-Python/blob/main/Day-6/maze.png)
+![Maze](https://github.com/VishwasDevnani/100DaysOfPython/blob/main/Day006/maze.png)
 ### Maze
 
 ![World Info](https://github.com/govindrathore27/100-Days-Of-Python/blob/main/Day-6/world_info.png)
