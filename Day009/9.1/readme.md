@@ -6,9 +6,10 @@ You have access to a database of `student_scores` in the format of a dictionary.
 
 Write a program that **converts their scores to grades**. By the end of your program, you should have a new dictionary called `student_grades` that should contain student **names** for **keys** and their **grades** for **values**. T**he final version** of the `student_grades` dictionary will be checked. 
 
-**DO NOT** modify lines 1-7 to change the existing `student_scores` dictionary. 
 
-**DO NOT** write any print statements.
+
+![](https://pics.me.me/thumb_there-is-a-big-difference-between-people-who-are-smart-14515936.png)
+
 
 This is the scoring criteria:
 
