@@ -1,8 +1,10 @@
-## Dictionary in List
+## Travel Log
+
+![](https://images-na.ssl-images-amazon.com/images/I/61pQOKYfnTL._SX348_BO1,204,203,200_.jpg)
 
 # Instructions
 
-we are going to write a program that adds to a `travel_log`. You can see a travel_log which is a **List** that contains 2 **Dictionaries**. 
+we wrote a program that adds to a `travel_log`. You can see a travel_log which is a **List** that contains 2 **Dictionaries**. 
 
 Write a function that will work with the following line of code on line 21 to add the entry for Russia to the `travel_log`. 
 
