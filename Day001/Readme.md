@@ -10,3 +10,5 @@
 
 In this project , we input the name of birth-city and pet of the user and\
 combine these two to make a funky band name
+
+![gif](https://media.giphy.com/media/mfhIlzn4UZb68/giphy.gif)
